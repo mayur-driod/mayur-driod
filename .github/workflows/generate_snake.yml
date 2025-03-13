@@ -3,20 +3,25 @@ name: Generate Snake Contribution Grid
 on:
   schedule:
     - cron: "0 0 * * *" # Runs daily
-  workflow_dispatch:
+  workflow_dispatch: # Allows you to run the workflow manually
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
         with:
           github_user_name: mayur-driod
           outputs: |
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg
 
-      - uses: actions/upload-artifact@v3
+      - name: Upload Snake Animations
+        uses: actions/upload-artifact@v4
         with:
           name: snake-animations
           path: |
