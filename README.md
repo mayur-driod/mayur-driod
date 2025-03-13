@@ -27,7 +27,8 @@
 
 ### 🐍 GitHub Contribution Snake  
 
-![GitHub Snake](https://raw.githubusercontent.com/mayur-driod/output/snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/mayur-driod/mayur-driod/output/snake.svg)
+
 
 
 ---
