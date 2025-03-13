@@ -27,8 +27,8 @@
 
 ### 🐍 GitHub Contribution Snake  
 
-![GitHub Snake](https://raw.githubusercontent.com/mayur-driod/mayur-driod/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
-![GitHub Snake](https://raw.githubusercontent.com/mayur-driod/mayur-driod/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
+![GitHub Snake](https://raw.githubusercontent.com/mayur-driod/output/snake.svg)
+
 
 ---
 
