@@ -5,3 +5,6 @@
 - 📫 How to reach me send me a mail on settymayurk@gmail.com
 - ⚡ Fun fact: I love to birdwatch and I am a Wildlife Photographer
 
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.3.0
