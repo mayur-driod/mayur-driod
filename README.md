@@ -13,9 +13,9 @@
 ### 🚀 **About Me**  
 - 🔥 Passionate about **[Programming](https://en.wikipedia.org/wiki/Computer_programming)** and contributing to the **[developer community](https://github.com/)**  
 - 🌱 Currently learning **[Python](https://www.python.org/)** and **[Java](https://www.java.com/)**  
-- 🤝 Looking to collaborate on **beginner-friendly projects**  
+- 🤝 Looking to collaborate on **Open-Source projects**  
 - 📧 Reach me via **[Email](mailto:settymayurk@gmail.com)**  
-- ⚡ Fun fact: I love **[Birdwatching](https://en.wikipedia.org/wiki/Birdwatching)** & capturing wildlife moments through my lens 📸  
+- ⚡ Fun fact: I love **[Birdwatching](https://en.wikipedia.org/wiki/Birdwatching)** & capturing [wildlife moments](https://www.instagram.com/mayurksetty.photography/) through my lens 📸  
 
 ---
 
