@@ -26,7 +26,13 @@
 </table>
 
 ---
-[![@mayur-driod's Holopin board](https://www.holopin.io/@mayurdriod#badges)](https://holopin.io/@mayur-driod)
+### Holopins Badges
+<p align="center">
+  <a href="https://www.holopin.io/userbadge/cm2kmyfqq200690dmf25kq8smg">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge 1" width="150" height="150" />
+  </a>
+</p>
+
 ---
 
 ### 🚀 **About Me**  
