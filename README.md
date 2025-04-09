@@ -26,7 +26,7 @@
 </table>
 
 ---
-[![@mayur-driod's Holopin board](https://holopin.io/api/user/mayur-driod/board)](https://holopin.io/@mayur-driod)
+[![@mayur-driod's Holopin board](https://www.holopin.io/@mayurdriod#badges)](https://holopin.io/@mayur-driod)
 ---
 
 ### 🚀 **About Me**  
